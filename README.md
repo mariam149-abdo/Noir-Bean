@@ -8,7 +8,7 @@ This project demonstrates clean layout structure, attractive design, and mobile-
 
 ## Live Demo
 
-👉 [View Website](https://mariam149-abdo.github.io/Tasty-Bites/)
+👉 [View Website](https://github.com/mariam149-abdo/Noir-Bean.git)
 
 ---
 
@@ -36,13 +36,14 @@ This project demonstrates clean layout structure, attractive design, and mobile-
 
 The website is fully responsive and adapts to all screen sizes:
 
-- Desktop 
-- Tablet 
-- Mobile 
+- Desktop
+- Tablet
+- Mobile
 
 ---
 
 ## Project Structure
+
 Noir Bean/
 │
 ├── index.html
@@ -70,6 +71,3 @@ Noir Bean/
 Made by [Mariam](https://github.com/mariam149-abdo)
 
 ---
-
-
-
