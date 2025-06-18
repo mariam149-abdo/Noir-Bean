@@ -19,7 +19,7 @@ body{
   background-color: var(--bg-color);
 }
 .all{
-  background-image: url("/images\ 13/coffe bg1.jpg");
+  background-image: url("images 13/coffe bg1.jpg");
   background-size: cover;
 }
 ul {
