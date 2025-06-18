@@ -8,7 +8,7 @@ This project demonstrates clean layout structure, attractive design, and mobile-
 
 ## Live Demo
 
-👉 [View Website](https://github.com/mariam149-abdo/Noir-Bean.git)
+[View Website](https://mariam149-abdo.github.io/Noir-Bean/)
 
 ---
 
