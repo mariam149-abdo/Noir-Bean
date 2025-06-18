@@ -1,4 +1,4 @@
-# ☕ Tasty Bites - Coffee Shop Website
+# ☕ Noir Bean - Coffee Shop Website
 
 Welcome to **Tasty Bites** — a modern, responsive coffee shop website built using only **HTML5** and **CSS3**.
 
