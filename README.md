@@ -1,6 +1,6 @@
 # ☕ Noir Bean - Coffee Shop Website
 
-Welcome to **Tasty Bites** — a modern, responsive coffee shop website built using only **HTML5** and **CSS3**.
+Welcome to **Noir Bean** — a modern, responsive coffee shop website built using only **HTML5** and **CSS3**.
 
 This project demonstrates clean layout structure, attractive design, and mobile-friendly responsiveness without using any JavaScript frameworks.
 
