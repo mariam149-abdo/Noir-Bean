@@ -360,6 +360,12 @@ a{
   #home .container{
     padding:50px 20px;
   }
+  #about h1,
+  #menu h1,
+  #reviews h1,
+  #contact h1{
+    padding: 0 5px;
+  }
   .content h3{
   font-size:40px;
   font-weight:600;
@@ -419,5 +425,8 @@ a{
     border:none;
     transition:all 0.3s ease;
     border-radius: 10px;
+  }
+  #footer{
+    padding:15px 5px;
   }
 } 
