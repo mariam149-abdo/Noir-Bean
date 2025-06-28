@@ -1,7 +1,5 @@
 # ☕ Noir Bean - Coffee Shop Website
 
-Welcome to **Noir Bean** — a modern, responsive coffee shop website built using only **HTML5** and **CSS3**.
-
 This project demonstrates clean layout structure, attractive design, and mobile-friendly responsiveness without using any JavaScript frameworks.
 
 ---
@@ -27,6 +25,7 @@ This project demonstrates clean layout structure, attractive design, and mobile-
 
 - `HTML5`
 - `CSS3`
+- `JAVASCRIPT`
 - Responsive Design with Media Queries
 - [Formsubmit](https://formsubmit.co/) – Simple backend for form submissions
 
@@ -48,6 +47,7 @@ Noir Bean/
 │
 ├── index.html
 ├── style.css
+├── script.js
 ├── /images 13
 │ ├── coffee.jpg
 │ ├── dishes.jpg
